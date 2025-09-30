@@ -55,5 +55,5 @@ The Iris dataset is one of the most well-known datasets in the machine learning 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ananyashetty05/codeX-techno.git
-   cd codeX-techno
+   git clone https://github.com/ananyashetty05/dataanalytics.git
+   cd dataanalytics
