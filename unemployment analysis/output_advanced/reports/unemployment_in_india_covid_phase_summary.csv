@@ -1,0 +1,4 @@
+covid_phase,mean,median,std,count
+Pre-lockdown (Jan–24 Mar),9.96,7.18,7.92,106
+Strict lockdown (25 Mar–May),19.68,15.8,16.14,154
+Reopening (Jun–Nov),11.9,10.34,8.75,50
